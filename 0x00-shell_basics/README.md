@@ -1,1 +1,1 @@
-This script show the command to display items in a file
+this file contains command to change working directory to user's home
