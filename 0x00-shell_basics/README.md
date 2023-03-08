@@ -1,1 +1,1 @@
-This file contains the script to show absolute path in the current file
+This script show the command to display items in a file
